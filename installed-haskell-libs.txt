@@ -1,0 +1,3 @@
+libghc-gd-dev
+libghc-missingh-dev
+
